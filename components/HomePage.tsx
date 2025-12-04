@@ -1,38 +1,47 @@
-"use client"
+"use client";
 
-import { useRef } from "react"
-import { motion } from "framer-motion"
-import MetroTimeline from "./MetroTimeline"
-import BusFillingGame from "./BusFillingGame"
-import MotoAppSimulator from "./MotoAppSimulator"
-import MotorcycleGrowthChart from "./infographics/MotorcycleGrowthChart"
-import RidesChart from "./infographics/RidesChart"
-import DeathsChart from "./infographics/DeathsChart"
-import CyclistsChart from "./infographics/CyclistsChart"
-import MetroMapComponent from "./maps/MetroMap"
-import CyclePathMap from "./maps/CyclePathMap"
-import TextSection from "./TextSection"
-import Footer from "./Footer"
+import { useRef } from "react";
+import { motion } from "framer-motion";
+import MetroTimeline from "./MetroTimeline";
+import BusFillingGame from "./BusFillingGame";
+import MotoAppSimulator from "./MotoAppSimulator";
+import MotorcycleGrowthChart from "./infographics/MotorcycleGrowthChart";
+import RidesChart from "./infographics/RidesChart";
+import DeathsChart from "./infographics/DeathsChart";
+import CyclistsChart from "./infographics/CyclistsChart";
+import MetroMapComponent from "./maps/MetroMap";
+import CyclePathMap from "./maps/CyclePathMap";
+import TextSection from "./TextSection";
+import Footer from "./Footer";
 
 export default function HomePage() {
-  const containerRef = useRef<HTMLDivElement>(null)
+  const containerRef = useRef<HTMLDivElement>(null);
 
   return (
     <div ref={containerRef} className="bg-white overflow-x-hidden">
-
       {/* Hero Section */}
-      <section className="min-h-screen flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8 pt-24 pb-12 bg-gradient-to-b from-white to-blue-50">
+      <section
+        className="relative min-h-screen flex flex-col items-center justify-center 
+  px-4 sm:px-6 lg:px-8 pt-24 pb-12
+  bg-gradient-to-b from-white to-blue-50
+  bg-[url('/images/homePage.png')] bg-cover bg-center bg-no-repeat"
+      >
+        {/* Overlay opcional */}
+        <div className="absolute inset-0 bg-white/50 -z-10"></div>
+
         <motion.div
-          className="max-w-4xl w-full text-center"
+          className="max-w-4xl w-full text-center relative z-10"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-light mb-6 text-blue-950 leading-tight">
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 text-black leading-tight">
             Mobilidade Urbana em Recife
           </h1>
-          <p className="text-xl sm:text-2xl text-gray-600 font-light leading-relaxed">O Custo Humano da Rotina</p>
-          <div className="h-1 w-24 bg-red-600 mx-auto mt-4"></div>
+          <p className="text-xl sm:text-2xl text-gray-900 font-light mb-6 leading-relaxed">
+            O Custo Humano da Rotina
+          </p>
+          
         </motion.div>
       </section>
 
@@ -54,7 +63,7 @@ export default function HomePage() {
       />
 
       {/* Metro Timeline */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white bg-[url('/images/timeline.png')] bg-cover bg-center bg-no-repeat">
         <div className="max-w-6xl mx-auto">
           <motion.h2
             className="text-4xl sm:text-5xl font-light text-blue-950 text-center mb-12"
@@ -86,7 +95,7 @@ export default function HomePage() {
       />
 
       {/* Bus Game */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gray-50">
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gray-50 ">
         <div className="max-w-6xl mx-auto">
           <motion.h2
             className="text-4xl sm:text-5xl font-light text-blue-950 text-center mb-12"
@@ -97,8 +106,8 @@ export default function HomePage() {
             Lotação Diária
           </motion.h2>
           <p className="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
-            A medida que você navega por essa história, o ônibus vai enchendo com as realidades de milhares de pessoas
-            na Grande Recife.
+            A medida que você navega por essa história, o ônibus vai enchendo
+            com as realidades de milhares de pessoas na Grande Recife.
           </p>
           <BusFillingGame />
         </div>
@@ -137,7 +146,7 @@ export default function HomePage() {
       />
 
       {/* Moto App Simulator */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-yellow-50">
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-yellow-50 bg-[url('/images/image.png')] bg-cover bg-center bg-no-repeat">
         <div className="max-w-6xl mx-auto">
           <motion.h2
             className="text-4xl sm:text-5xl font-light text-blue-950 text-center mb-12"
@@ -148,7 +157,8 @@ export default function HomePage() {
             99 Moto
           </motion.h2>
           <p className="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
-            A solução rápida que atrai milhares diariamente, mas traz riscos crescentes.
+            A solução rápida que atrai milhares diariamente, mas traz riscos
+            crescentes.
           </p>
           <MotoAppSimulator />
         </div>
@@ -166,8 +176,8 @@ export default function HomePage() {
             Crescimento da Frota de Motocicletas
           </motion.h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            Entre 2020 e 2025 foram emplacadas aproximadamente 294.884 motos em Pernambuco — média de ~58.976 motos por
-            ano.
+            Entre 2020 e 2025 foram emplacadas aproximadamente 294.884 motos em
+            Pernambuco — média de ~58.976 motos por ano.
           </p>
           <MotorcycleGrowthChart />
         </div>
@@ -185,8 +195,8 @@ export default function HomePage() {
             Corridas de Moto por Aplicativo
           </motion.h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            O crescimento dos serviços de motos por aplicativo de transporte de passageiros cresceu ~50% em apenas dois
-            anos.
+            O crescimento dos serviços de motos por aplicativo de transporte de
+            passageiros cresceu ~50% em apenas dois anos.
           </p>
           <RidesChart />
         </div>
@@ -204,8 +214,8 @@ export default function HomePage() {
             O Preço da Liberdade
           </motion.h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            Em 2023, Pernambuco registrou 31.265 vítimas de acidentes com motos e 693 mortes. Aumento de aproximadamente
-            13,6% no total de vítimas.
+            Em 2023, Pernambuco registrou 31.265 vítimas de acidentes com motos
+            e 693 mortes. Aumento de aproximadamente 13,6% no total de vítimas.
           </p>
           <DeathsChart />
         </div>
@@ -240,7 +250,8 @@ export default function HomePage() {
             Ciclovias do Recife
           </motion.h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            Recife alcançou 191,5 km de rotas cicloviárias, mas muitos trechos permanecem desconectados.
+            Recife alcançou 191,5 km de rotas cicloviárias, mas muitos trechos
+            permanecem desconectados.
           </p>
           <CyclePathMap />
         </div>
@@ -258,7 +269,8 @@ export default function HomePage() {
             Acidentes com Ciclistas
           </motion.h2>
           <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-            A vulnerabilidade do ciclista é alta, especialmente em um trânsito agressivo.
+            A vulnerabilidade do ciclista é alta, especialmente em um trânsito
+            agressivo.
           </p>
           <CyclistsChart />
         </div>
@@ -281,5 +293,5 @@ export default function HomePage() {
 
       <Footer />
     </div>
-  )
+  );
 }
