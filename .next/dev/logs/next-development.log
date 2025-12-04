@@ -1,0 +1,2538 @@
+[00:00:04.079] Server  LOG      ✓ Ready in 3s
+[00:00:57.404] Server  LOG      ○ Compiling / ...
+[00:01:10.956] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:11.997] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:11.997] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:11.997] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764851396316}
+[00:03:14.106] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.129] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.149] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.161] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.173] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.180] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.185] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.189] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.194] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.203] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.206] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.211] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.216] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.220] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.223] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.228] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.233] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.237] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.241] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.247] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.254] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.259] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.262] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.266] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.273] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.292] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.297] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.301] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:14.305] Server  LOG      ✓ Compiled in 1598ms
+[00:03:15.351] Browser ERROR   ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/public/lotties/moto-colisao.json'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/public/lotties/moto-colisao.json";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './public/lotties/moto-colisao.json' inside of [project]/Downloads/metro-recife-map
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:31.738] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.761] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.769] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.777] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.787] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.796] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.800] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.819] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.824] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.828] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.832] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.834] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.838] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.843] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.846] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.852] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.857] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.863] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.867] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.871] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.875] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.879] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.882] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.886] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.891] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.894] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.898] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.901] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:31.908] Server  LOG      ✓ Compiled in 574ms
+[00:03:32.336] Browser ERROR   ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './' inside of [project]/Downloads/metro-recife-map
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:32.695] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.699] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.702] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.706] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.711] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.714] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.718] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.724] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.730] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.734] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.743] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.747] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.753] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.760] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.764] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.771] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.776] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.779] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.783] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.787] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.795] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.798] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.801] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.804] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.812] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.815] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.817] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.819] Server  ERROR    ⨯ ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:32.823] Server  LOG      ✓ Compiled in 181ms
+[00:03:33.435] Browser ERROR   ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx:5:1
+Module not found: Can't resolve '@/components/'
+  3 | import { motion } from "framer-motion";
+  4 | import { useInView } from "react-intersection-observer";
+> 5 | import motoColisao from "@/components/"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import Lottie from "lottie-react";
+  7 |
+  8 | export default function DeathsChart() {
+
+Import map: aliased to relative './components/' inside of [project]/Downloads/metro-recife-map
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component Browser]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/metro-recife-map/components/infographics/DeathsChart.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/components/HomePage.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Client Component SSR]
+    ./Downloads/metro-recife-map/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:36.124] Server  LOG      ✓ Compiled in 274ms
+[00:03:57.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:58.454] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:58.454] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:03:58.454] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764851562769}
+[00:05:32.086] Server  LOG      ✓ Compiled in 382ms
+[00:05:33.340] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true aut aut true aut
+[00:05:34.006] Server  LOG      ✓ Compiled in 200ms
+[00:06:15.492] Server  LOG      ✓ Compiled in 767ms
+[00:07:43.280] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:07:43.280] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:07:43.280] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764851787603}
+[00:10:53.945] Server  LOG      ✓ Compiled in 3.1s
